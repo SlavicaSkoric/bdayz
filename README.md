@@ -1,27 +1,35 @@
 # bdayz
 
-jan
+JAN
 
-1.4. glo
+4.1. glo
 
-feb
+FEB
 
-mar
+MAR
 
-apr
+APR
 
-may
+1.4. mali aleksej
 
-jun
+MAY
 
-jul
+JUN
 
-aug
+28.6. moi
 
-sep
+JUL
 
-oct
+AUG
 
-nov
+6.8. tuteca
 
-dec
+SEP
+
+20.9. mameca
+
+OCT
+
+NOV
+
+DEC
