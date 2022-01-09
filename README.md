@@ -33,6 +33,8 @@ SEP
 
 OCT
 
+19.10. dida
+
 NOV
 
 DEC
