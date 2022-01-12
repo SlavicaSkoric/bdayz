@@ -1,42 +1,42 @@
 # bdayz
 
-JAN
+JAN_____
 
 4.1. glo
 26.1. baka
 
-FEB
+FEB_____
 
-MAR
+MAR_____
 
 2.3. anselma
 
-APR
+APR_____
 
 1.4. mali aleksej
 
-MAY
+MAY_____
 
-JUN
+JUN_____
 
 28.6. moi
 
-JUL
+JUL_____
 
-AUG
+AUG_____
 
 6.8. tuteca
 
-SEP
+SEP_____
 
 20.9. mameca
 
-OCT
+OCT_____
 
 19.10. dida
 
-NOV
+NOV_____
 
-DEC
+DEC_____
 
 10.12. andrzej
